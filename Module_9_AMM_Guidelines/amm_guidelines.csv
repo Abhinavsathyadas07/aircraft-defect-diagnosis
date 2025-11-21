@@ -1,0 +1,4 @@
+﻿fault_code;required_action;deadline;compliance_notes
+engine_overheat_risk;Inspect cooling system;2 days;Check temp sensor, fan
+hydraulic_leak_risk;Replace fitting & fluid;1 day;Log part # in records
+vibration_high_risk;Tighten mounts;3 days;Re-test after flight

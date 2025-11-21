@@ -1,0 +1,6 @@
+engine_temp,hydraulic_pressure,vibration,fault_code,severity_label,predicted_severity,AMM_action
+0.8,0.6,0.15,engine_overheat_risk,High,,No AMM guideline found
+0.5,0.9,0.35,normal,Low,Low,No AMM guideline found
+0.95,0.3,0.55,engine_overheat_risk,High,,No AMM guideline found
+0.7,0.45,0.25,hydraulic_leak_risk,Medium,,No AMM guideline found
+0.4,0.8,0.1,normal,Low,,No AMM guideline found
